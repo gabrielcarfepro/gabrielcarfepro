@@ -4,7 +4,7 @@ Sistemas, e aprendendo por outros conteúdos de cursos e da internet.
 
 - 👀 Atualmente estou interessado em ReactJS, React Native, Node e um pouco de Internet das Coisas.
 
-- 🌱 Estou aprendendo ReactJS, React Native, Node e Internet das Coisas.
+- 🌱 Estou aprendendo .NET/C# e Azure.
 
 - 📫 Endereço para contato: gabrielcarfepro@gmail.com / Linkedin: https://www.linkedin.com/in/gabrielcarfe/
 
@@ -16,7 +16,7 @@ and learning by another's contents of courses and internet.
 
 - 👀 I’m interested in ReactJS, React Native, Node and a little beat of IOT.
 
-- 🌱 I’m currently learning ReactJS, React Native, Node and IOT.
+- 🌱 I’m currently learning .NET/C# and Azure.
 
 - 📫 How to reach me: gabrielcarfepro@gmail.com / Linkedin: https://www.linkedin.com/in/gabrielcarfe/
 
