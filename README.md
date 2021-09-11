@@ -1,4 +1,4 @@
-- 👋 Olá, Me chamo Gabriel Carvalho Ferreira e sou de Pernambuco, Brasil. Desde pouca idade, em torno dos meus 10 anos de idade, tenho contato com a tecnologia. Por muito tempo
+- 👋 Olá, Me chamo Gabriel Carvalho Ferreira e sou de Pernambuco, Brasil. Desde pouca idade, em torno dos meus 10 anos de idade, sou aficionado pela tecnologia. Por muito tempo
 levei isso como um hobby, porém recentemente decidi fazer isso profissionalmente, Então comecei meus estudos na área, começando a faculdade de Análise e Desenvolvimento de
 Sistemas, e aprendendo por outros conteúdos de cursos e da internet.
 
