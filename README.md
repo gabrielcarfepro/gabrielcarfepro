@@ -1,24 +1,16 @@
-- 👋 Olá, Me chamo Gabriel Carvalho Ferreira e sou de Pernambuco, Brasil. Desde pouca idade, em torno dos meus 10 anos de idade, sou aficionado pela tecnologia. Por muito tempo
-levei isso como um hobby, porém recentemente decidi fazer isso profissionalmente, Então comecei meus estudos na área, começando a faculdade de Análise e Desenvolvimento de
-Sistemas, e aprendendo por outros conteúdos de cursos e da internet.
+# Olá! 👋
 
-- 👀 Atualmente estou interessado em .NET/C#, Microsoft Azure e Javascript.
+### "Carregando Desafios..." 
 
-- 🌱 Estou aprendendo .NET/C# e Microsoft Azure.
+- 📍  Natural de Pernambuco, atualmente morando em Olinda.
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo .NET/C# e Microsoft Azure
 
-- 📫 Endereço para contato: gabrielcarfepro@gmail.com / Linkedin: https://www.linkedin.com/in/gabrielcarfe/
+Aprendendo a me tornar um grande profissional e uma pessoa melhor.
 
-English Translation:
+Contatos 👇🏼
 
-- 👋 Hi, I’m Gabriel Carvalho Ferreira, from Pernambuco, Brazil. Since my young age, something around 10 years old, i have a relationship with technology. For a long time this
-was just a hobby, but recently i decided to do this professionally, and get started my studies in the area, going to college ( in the course of analysis and systems development),
-and learning by another's contents of courses and internet.
-
-- 👀 I’m interested in .NET/C#, Microsoft Azure and Javascrit.
-
-- 🌱 I’m currently learning .NET/C# and Microsoft Azure.
-
-- 📫 How to reach me: gabrielcarfepro@gmail.com / Linkedin: https://www.linkedin.com/in/gabrielcarfe/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarfe/)](https://www.linkedin.com/in/gabrielcarfe/)  [![Gmail Badge](https://img.shields.io/badge/-gabrielcarfepro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcarfepro@gmail.com)](mailto:gabrielcarfepro@gmail.com)
 
 
 
