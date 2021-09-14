@@ -6,7 +6,7 @@
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo .NET/C# e Microsoft Azure
 
-Aprendendo a me tornar um grande profissional e uma pessoa melhor.
+Em constante aprendizado para me tornar um grande profissional e uma pessoa melhor.
 
 Contatos 👇🏼
 
