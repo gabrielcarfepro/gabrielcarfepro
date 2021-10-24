@@ -2,6 +2,7 @@
 
 - 📍  Natural de Pernambuco, atualmente morando em Olinda.
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Javascript
 - 🌱 Aprendendo .NET/C# e Microsoft Azure
 
  <div>
