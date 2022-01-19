@@ -10,7 +10,7 @@
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarfepro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<img align="right" width="400px" height="300px" src="https://cdn.discordapp.com/attachments/933417183273422901/933417294766432287/10_coding_dribbble.gif" />
+<img align="right" align="top" width="400px" height="300px" src="https://cdn.discordapp.com/attachments/933417183273422901/933417294766432287/10_coding_dribbble.gif" />
 
 ## Em constante aprendizado para me tornar um grande profissional e uma pessoa melhor.
 
