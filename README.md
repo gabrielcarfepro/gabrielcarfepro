@@ -13,7 +13,7 @@
 
 ## Em constante aprendizado para me tornar um grande profissional e uma pessoa melhor.
 
-#### Contatos 👇🏼
+#### Minhas Redes 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarfe/)](https://www.linkedin.com/in/gabrielcarfe/)  [![Gmail Badge](https://img.shields.io/badge/-gabrielcarfepro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcarfepro@gmail.com)](mailto:gabrielcarfepro@gmail.com)
 
