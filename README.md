@@ -2,7 +2,7 @@
 
 - 📍  Natural de Pernambuco, atualmente morando em Olinda.
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando: Javascript | Eng. de Software | DevOps & Agile
+- 🌱 Estudando: Javascript | Eng. de Software
 
  <div>
   <a href="https://github.com/gabrielcarfepro">
