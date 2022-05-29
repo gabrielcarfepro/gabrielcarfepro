@@ -1,8 +1,8 @@
 # Olá! Me chamo Gabriel 😁
 
-- 📍  Natural de Pernambuco, atualmente morando em Olinda.
+- 📍  Olinda-PE
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando: Javascript | Eng. de Software
+- 🌱 Estudando: Javascript | C#
 
  <div>
   <a href="https://github.com/gabrielcarfepro">
