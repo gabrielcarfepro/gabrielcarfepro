@@ -1,6 +1,6 @@
 # Olá! Me chamo Gabriel 😁
 
-- 📍  Olinda-PE
+- 📍 Pernambuco
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando: Javascript | C#
 
