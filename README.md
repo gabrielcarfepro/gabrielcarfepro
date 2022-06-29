@@ -2,7 +2,7 @@
 
 - 📍 Pernambuco
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando: Javascript | C#
+- 🌱 NodeJS
 
  <div>
   <a href="https://github.com/gabrielcarfepro">
