@@ -1,8 +1,9 @@
 # Olá! Me chamo Gabriel 😁
 
 - 📍 Pernambuco
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 NodeJS
+- 👨‍💻 Dev Jr
+- 💻 Análise e Desenvolvimento de Sistemas
+- 🌱 NodeJS / .NET C#
 
  <div>
   <a href="https://github.com/gabrielcarfepro">
