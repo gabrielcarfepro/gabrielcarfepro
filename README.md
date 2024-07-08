@@ -4,12 +4,14 @@
 - 🌱 NodeJs
 - ⚛️ React and Angular
 
+<!--
  <div>
   <a href="https://github.com/gabrielcarfepro">
-  <!--<img height="172em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarfepro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarfepro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarfepro&layout=compact&langs_count=7&theme=dark"/>
   <img align="right" width="400px" height="300px" src="https://cdn.discordapp.com/attachments/933417183273422901/933419317389832192/giphy.gif" />
 </div>
+--->
 
 #### My Networks 👇🏼
 
