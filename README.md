@@ -1,9 +1,8 @@
-# Olá! Me chamo Gabriel 😁
+# Hello! My Name is Gabriel 😁
 
-- 📍 Pernambuco
-- 👨‍💻 Dev Jr
-- 💻 Análise e Desenvolvimento de Sistemas
-- 🌱 NodeJS / .NET C#
+- 🟣 .NET Developer
+- 🌱 NodeJs
+- ⚛️ React and Angular
 
  <div>
   <a href="https://github.com/gabrielcarfepro">
@@ -12,7 +11,7 @@
   <img align="right" width="400px" height="300px" src="https://cdn.discordapp.com/attachments/933417183273422901/933419317389832192/giphy.gif" />
 </div>
 
-#### Minhas Redes 👇🏼
+#### My Networks 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarfe/)](https://www.linkedin.com/in/gabrielcarfe/)  [![Gmail Badge](https://img.shields.io/badge/-gabrielcarfepro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcarfepro@gmail.com)](mailto:gabrielcarfepro@gmail.com)
 
