@@ -1,8 +1,14 @@
-## Hello there! 😁
+## Hello there!
+
+### i'm Gabriel 😁
+
+I'm a Software Engineer Developer from Brazil, and i have a little over 4 years of coding.
+
+I am passionate about technology and curious by nature.
+
+I am currently on a learning path to reach the level of software architect, and subsequently solutions architect 🎯.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarfe/)](https://www.linkedin.com/in/gabrielcarfe/)  [![Gmail Badge](https://img.shields.io/badge/-gabrielcarfepro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcarfepro@gmail.com)](mailto:gabrielcarfepro@gmail.com)
-
-My name is Gabriel, and I'm a Software Engineer from Brazil. In my daily work, I primarily handle .NET and Angular, while also leveraging my experience with NodeJS and React, among other languages. Additionally, I work with observability and cloud technologies, using tools like Elastic, OpenTelemetry, and various Azure-based services.
 
 <!--
  <div>
